@@ -1,6 +1,6 @@
 # Kas_RT
 
-Anggota Kelompok
+## Anggota Kelompok
 | Nim  | Nama | Kelas | 
 | ------------- | ------------- | ------------- |
 | 312210169 | Fergiawan Satrio Bagaskoro | TI.22.A2  |
