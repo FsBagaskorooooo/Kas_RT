@@ -1,5 +1,12 @@
 # Kas_RT
 
+Anggota Kelompok
+| Nim  | Nama | Kelas | 
+| ------------- | ------------- | ------------- |
+| 312210169 | Fergiawan Satrio Bagaskoro | TI.22.A2  |
+| 312210686 | Rizky Syahhendra Fanani | TI.22.A2  |
+
+
 ## Tampilan Dari Website Kas RT
 
 ### Tampilan Dari Halaman Depan
