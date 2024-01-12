@@ -18,3 +18,23 @@
 
 ### Tampilan Dari Laporan Iuran
 ![ss6](https://github.com/FsBagaskorooooo/Kas_RT/assets/130354090/395e71ed-fb4d-47ec-b0f1-a3129cbb86df)
+
+## Databasenya
+
+### Iuran
+![ss7](https://github.com/FsBagaskorooooo/Kas_RT/assets/130354090/bec3999b-ee47-405e-b4eb-ef25dba69fa2)
+
+### Users
+![ss8](https://github.com/FsBagaskorooooo/Kas_RT/assets/130354090/3eed6c76-b480-436f-b3b5-fb80752015f9)
+
+### Warga
+![ss9](https://github.com/FsBagaskorooooo/Kas_RT/assets/130354090/8ad8f563-0ad6-4772-afa9-0c9b437e82fe)
+
+
+
+
+
+
+
+
+
