@@ -38,8 +38,8 @@
 ![ss9](https://github.com/FsBagaskorooooo/Kas_RT/assets/130354090/8ad8f563-0ad6-4772-afa9-0c9b437e82fe)
 
 
-## Video Demo
-Untuk video demonya bisa diakses di link berikut :
+## Video Youtube
+Untuk videonya bisa diakses di link berikut :
 https://youtu.be/jD67WE-7UEM
 
 
