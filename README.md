@@ -42,6 +42,10 @@
 Untuk videonya bisa diakses di link berikut :
 https://youtu.be/jD67WE-7UEM
 
+## Website
+untuk websitenya bisa diakses di link berikut :
+https://ibaskoro.000webhostapp.com/
+
 
 
 
